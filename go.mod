@@ -1,8 +1,9 @@
-module github.com/ayenyeinchanpyae/GoApi.git
+module github.com/ayenyeinchanpyae/GoApi
 
 go 1.20
 
 require (
+	github.com/avukadin/goapi v0.0.0-20230822123528-a98a49676213
 	github.com/go-chi/chi v1.5.4
 	github.com/gorilla/schema v1.2.0
 	github.com/sirupsen/logrus v1.9.3
